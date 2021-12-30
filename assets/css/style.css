@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body{
+    font-family: 'Cabin', sans-serif;
+  }
+ 
+  .logo-rica{
+    font-family: 'Lobster Two', cursive;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  h3{
+    font-size: 20px;
+  }
+  h5{
+    font-size: 23px;
+  }
+  .card-text{
+    font-size: 16px;
+  }
+  .imagen-1{
+    max-width: 482px;
+    
+  }
+  .titular-1{
+    font-size: 40px;
+  }
+  .container{
+    max-width: 1100px;
+  }
+  .carrusel-1 img{
+    /* max-width: 233px; */
+  }
+
+  .suscribir{
+    height: 350px;
+    
+  }
+  .sus-text{
+    
+font-size: 40px;
+  }
+  .parra-subt{
+    
+    font-size: 30px;
+      }
+  .foter{
+    height: 100px;
+  }
+
+
+  
+  
